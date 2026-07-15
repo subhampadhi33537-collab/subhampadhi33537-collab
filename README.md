@@ -56,11 +56,11 @@ Building intelligent solutions with Python, FastAPI, Machine Learning & Deep Lea
 
 | Project | Description | Live |
 |--------|-------------|------|
-| [🎵 Music City Odia](https://github.com/subhampadhi33537-collab/Music_City_Odia) | Full-stack music store with Razorpay payments, Supabase Auth, signed audio URLs | [Demo](https://music-city-odia.vercel.app/) |
-| [🌦️ Weather Alert System](https://github.com/subhampadhi33537-collab/Weather_Alert_System) | ML-based anomaly detection (Isolation Forest) with real-time weather monitoring | [Demo](https://weather-alert-system-c5yx.vercel.app/) |
-| [🤖 ChatNex AI](https://github.com/subhampadhi33537-collab/chatNex-Ai) | Advanced AI-powered chatbot web application with human-like conversations | — |
+| [🎵 Music City Odia](https://github.com/subhampadhi33537-collab/Music_City_Odia) | Full-stack music store with Razorpay payments, Supabase Auth, signed audio URLs | [Live](https://music-city-odia.vercel.app/) |
+| [🌦️ Weather Alert System](https://github.com/subhampadhi33537-collab/Weather_Alert_System) | ML-based anomaly detection (Isolation Forest) with real-time weather monitoring | [Live](https://weather-alert-system-c5yx.vercel.app/) |
+| [🤖 ChatNex AI](https://github.com/subhampadhi33537-collab/chatNex-Ai) | Advanced AI-powered chatbot web application with human-like conversations | [Live](https://chat-nex-ai-ax1j.vercel.app/)  |
 | [📚 EduSolve AI](https://github.com/subhampadhi33537-collab/EduSolve_Ai) | Full-stack app resolving academic doubts using Groq's Generative AI API | — |
-| [💻 Smart Gadget Price Estimator](https://github.com/subhampadhi33537-collab/Smart_Gadget_Price_Estimation_System) | ML models predicting laptop & phone prices from separate datasets | — |
+| [💻 Smart Gadget Price Estimator](https://github.com/subhampadhi33537-collab/Smart_Gadget_Price_Estimation_System) | ML models predicting laptop & phone prices from separate datasets |  [Live](https://smart-gadget-price-estimation-system.onrender.com)  |
 
 ---
 
