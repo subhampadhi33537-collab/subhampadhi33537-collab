@@ -229,25 +229,6 @@ Generative AI  & Agentic AI
 
 ---
 
-# 🎯 Engineering Focus
-
-I'm interested in building systems that combine:
-
-**Machine Learning + Generative AI + RAG + Backend APIs + Databases + Cloud Deployment**
-
-My current focus is moving from individual AI/ML experiments toward **end-to-end, maintainable, and deployable AI applications**.
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subhampadhi33537-collab&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhampadhi33537-collab&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
 # 🔗 Connect
 
 <p align="left">
