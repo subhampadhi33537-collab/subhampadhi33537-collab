@@ -32,8 +32,6 @@ B.Tech CSE (AI & ML) student focused on building **machine learning, deep learni
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 
-`Data Preprocessing` • `EDA` • `Feature Engineering` • `Data Analysis`
-
 ---
 
 ### 🤖 Machine Learning & Deep Learning
@@ -45,9 +43,6 @@ B.Tech CSE (AI & ML) student focused on building **machine learning, deep learni
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge\&logo=matplotlib\&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge\&logo=python\&logoColor=white)
 
-`Supervised Learning` • `Unsupervised Learning` • `Model Evaluation`
-`Neural Networks` • `CNN` • `NLP`
-
 ---
 
 ### ✨ Generative AI & RAG
@@ -56,11 +51,6 @@ B.Tech CSE (AI & ML) student focused on building **machine learning, deep learni
 ![RAG](https://img.shields.io/badge/RAG-6E40C9?style=for-the-badge)
 ![FAISS](https://img.shields.io/badge/FAISS-Vector_Search-1877F2?style=for-the-badge)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_Store-FF6F61?style=for-the-badge)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
-
-`LLMs` • `Prompt Engineering` • `Embeddings`
-`RAG Pipelines` • `Document Processing` • `Retrieval`
-`Semantic Search` • `Vector Stores` • `Tool Calling`
 
 ---
 
@@ -70,10 +60,6 @@ B.Tech CSE (AI & ML) student focused on building **machine learning, deep learni
 ![LangGraph](https://img.shields.io/badge/LangGraph-2D3748?style=for-the-badge)
 ![LangSmith](https://img.shields.io/badge/LangSmith-FF6B35?style=for-the-badge)
 ![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-5B5B5B?style=for-the-badge)
-
-`AI Agents` • `Agentic Workflows` • `State Management`
-`Memory & Checkpoints` • `Tool Calling` • `Multi-Step Reasoning`
-`MCP` • `Tracing` • `Evaluation` • `Observability`
 
 ---
 
