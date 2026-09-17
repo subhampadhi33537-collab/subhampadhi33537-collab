@@ -1,342 +1,148 @@
 <div align="center">
 
-# 👋 Hey, I'm **Subham Padhi**
+# 👋 Hi, I'm **Subham Padhi**
 
-### 🤖 AI/ML Student • ✨ Generative AI • 🧠 Agentic AI • ⚙️ Backend Engineering
+### 🤖 AI/ML Student | ✨ GenAI | 🧠 Agentic AI | ⚙️ Backend
 
-**Building intelligent applications that combine AI + APIs + Data + Automation**
+🎓 B.Tech CSE (AI & ML) • **CGPA 9.48/10**
+📍 Bhubaneswar, Odisha 🇮🇳
 
-📍 Bhubaneswar, Odisha, India
-🎓 B.Tech CSE (AI & ML)
-📊 CGPA: **9.48 / 10**
-
-<br/>
+**Building AI-powered applications, intelligent agents & backend systems 🚀**
 
 <a href="https://linkedin.com/in/subham-padhi-9b3a7b385">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
 </a>
 <a href="https://github.com/subhampadhi33537-collab">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
 </a>
 <a href="mailto:subham117700@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white">
 </a>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧠 Tech Stack
 
-I'm a **B.Tech CSE (AI & ML) student** focused on building practical AI systems rather than only experimenting with models.
+**🐍 Languages & Data**
 
-🚀 I work across:
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
 
-> 🧠 **Machine Learning & Deep Learning**
-> ✨ **Generative AI & LLM Applications**
-> 🤖 **Agentic AI & AI Agents**
-> 🔎 **RAG & Semantic Search**
-> ⚙️ **FastAPI / Flask Backend Systems**
-> 🗄️ **PostgreSQL & Supabase**
-> ☁️ **Cloud Deployment**
+**🤖 AI / ML**
 
-I enjoy taking an idea from:
+![Scikit Learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
 
-**💡 Concept → 🧠 AI Logic → ⚙️ Backend → 🔗 Integration → ☁️ Deployment**
+**✨ GenAI / Agentic AI**
 
----
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![LangSmith](https://img.shields.io/badge/LangSmith-FF6B35?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-6E40C9?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-5B5B5B?style=flat-square)
 
-# 🧠 AI & Development Stack
+`LLMs` • `Prompt Engineering` • `AI Agents` • `Tool Calling` • `RAG` • `Embeddings`
 
-<div align="center">
+**⚙️ Backend & Database**
 
-### 🐍 Programming & Data
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=python,js,numpy,pandas" />
+**☁️ Tools**
 
-### 🤖 Machine Learning
-
-<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch" />
-
-### ✨ Generative AI & Agentic AI
-
-<img src="https://skillicons.dev/icons?i=langchain" />
-
-`LLMs` • `Prompt Engineering` • `RAG` • `Embeddings` • `Vector Search`
-`Tool Calling` • `AI Agents` • `Agentic Workflows` • `MCP`
-
-### 🔗 Agent Frameworks & AI Infrastructure
-
-**LangGraph** • **LangChain** • **LangSmith** • **MCP (Model Context Protocol)**
-
-`StateGraph` • `State Management` • `Memory` • `Checkpoints`
-`Tool Calling` • `Multi-Step Agents` • `Tracing` • `Evaluation` • `Observability`
-
-### 🔎 Retrieval & Vector Search
-
-`FAISS` • `ChromaDB` • `Embeddings` • `Semantic Search` • `Document Retrieval`
-
-### ⚙️ Backend
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask" />
-
-`REST APIs` • `API Integration` • `Authentication` • `Request Validation`
-`Model Serving` • `Backend Architecture`
-
-### 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
-
-### ☁️ Development & Deployment
-
-<img src="https://skillicons.dev/icons?i=git,github,vercel" />
-
-**Render** • **Supabase**
-
-</div>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square\&logo=vercel\&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square\&logo=render\&logoColor=black)
 
 ---
 
-# 💼 Experience
+## 💼 Experience
 
-## 🤖 Advanced AI Development Intern
+### 🤖 Advanced AI Development Intern — XTRAGRAD
 
-### **XTRAGRAD Pvt. Ltd.**
+**Jul 2026 – Aug 2026 | Backend Team Member**
 
-**Jul 2026 – Aug 2026 | Completed**
+⚙️ Built backend services with **FastAPI**
+🗄️ Worked with **PostgreSQL / Supabase**
+🔗 Developed REST APIs & frontend-backend integration
+🧠 Integrated **GenAI / LLM-based features**
+☁️ Worked with **Render & Vercel deployment**
 
-**Backend Team Member**
+### 🔬 Machine Learning Intern — Cognifyz IT Solutions
 
-During the internship, I contributed to the development of an AI-focused application with responsibilities spanning **backend development, database integration, AI integration, and deployment**.
+**May 2026 – Jun 2026**
 
-### 🔧 What I Worked On
-
-* ⚙️ Developed backend functionality using **FastAPI**
-* 🔗 Designed and integrated **RESTful APIs** for frontend-backend communication
-* 🗄️ Worked with **PostgreSQL / Supabase** for application data management
-* 🔐 Implemented backend flows for **user authentication and application data**
-* 🤖 Integrated **AI-powered application components and LLM-based functionality**
-* 🧠 Worked with **Generative AI, prompt engineering and AI-assisted workflows**
-* 🔄 Connected frontend components with backend and AI services
-* ☁️ Worked with **Render and Vercel deployment workflows**
-* 🏗️ Contributed to the structure and integration of production-oriented application components
-* 🤝 Collaborated with the team on implementing and delivering project features
-
-### 🧩 Technologies
-
-`Python` `FastAPI` `PostgreSQL` `Supabase` `REST APIs`
-`Generative AI` `LLMs` `Prompt Engineering` `Git` `Vercel` `Render`
+📊 Data preprocessing & EDA
+🧹 Feature engineering
+🤖 ML model implementation & evaluation
+🐍 Python, Pandas, NumPy & Scikit-learn
 
 ---
 
-## 🔬 Machine Learning Intern
+## 🚀 Featured Projects
 
-### **Cognifyz IT Solutions Pvt. Ltd.**
-
-**May 2026 – Jun 2026 | Completed**
-
-* 📊 Performed **data preprocessing and exploratory data analysis**
-* 🧹 Applied **data cleaning and feature engineering**
-* 🤖 Implemented machine learning models for practical datasets
-* 📈 Evaluated model performance and interpreted results
-* 🐍 Used **Python, Pandas, NumPy and Scikit-learn**
-* 🧠 Worked through the complete **data → model → evaluation** workflow
-
----
-
-# 🚀 Featured Projects
-
-## 🎵 Music City Odia
-
-**Full-stack music e-commerce platform for Odia audio content**
-
-`Supabase` `PostgreSQL` `Razorpay` `Vercel`
-
-🔐 Authentication
-💳 Online Payments
-🔒 Signed Audio URLs
-🗄️ Database-backed Products
-☁️ Cloud Deployment
-
-**🔗 [GitHub](https://github.com/subhampadhi33537-collab/Music_City_Odia) • [Live App](https://music-city-odia.vercel.app/)**
-
----
-
-## 🤖 Agentic AI / AURA
+### 🤖 [AURA](https://github.com/subhampadhi33537-collab/AURA-AI)
 
 **AI Universal Response Assistant**
 
-A conversational AI system built around **LangGraph**, with session memory, tool usage and live web search.
+`LangGraph` `Groq` `LangChain` `DuckDuckGo`
 
-`LangGraph` `LangChain` `Groq` `LLM` `DuckDuckGo`
-
-🧠 Stateful conversations
-🔄 Agent workflows
-🔎 Live web search
-💾 Session memory
-🛠️ Tool calling
-⚡ Streamlit interface
-
-**Architecture**
-
-```text
-👤 User
-   ↓
-🧠 LangGraph Agent
-   ↓
-🤖 LLM
-   ├── 💬 Direct Response
-   └── 🔎 Web Search Tool
-            ↓
-       🌐 Search Results
-            ↓
-       🧠 Final Response
-```
+🧠 Stateful AI Agent • 🔎 Live Search • 💾 Memory • 🛠️ Tool Calling
 
 ---
 
-## 🌦️ Weather Alert System
+### 🎵 [Music City Odia](https://github.com/subhampadhi33537-collab/Music_City_Odia)
 
-**ML-powered weather monitoring & anomaly detection**
+🎧 Odia music e-commerce platform
 
-`Python` `Flask` `React` `PostgreSQL` `Isolation Forest`
+`Supabase` `PostgreSQL` `Razorpay` `Vercel`
 
-🌦️ Weather Data Processing
-🧠 Anomaly Detection
-📊 Data Analysis
-⚙️ Flask Backend
-🗄️ PostgreSQL / Supabase
-🌐 React Frontend
-
-**🔗 [GitHub](https://github.com/subhampadhi33537-collab/Weather_Alert_System) • [Live App](https://weather-alert-system-c5yx.vercel.app/)**
+🔐 Auth • 💳 Payments • 🔒 Protected Audio
 
 ---
 
-## 💬 ChatNex AI
+### 🌦️ [Weather Alert System](https://github.com/subhampadhi33537-collab/Weather_Alert_System)
 
-**AI-powered conversational web application**
+🌩️ ML-based weather anomaly detection
 
-`AI` `Backend APIs` `Frontend` `Vercel`
-
-💬 Interactive AI conversations
-⚙️ Backend API integration
-🌐 Web-based interface
-🚀 Deployed application
-
-**🔗 [GitHub](https://github.com/subhampadhi33537-collab/chatNex-Ai) • [Live App](https://chat-nex-ai-ax1j.vercel.app/)**
+`Flask` `React` `PostgreSQL` `Isolation Forest`
 
 ---
 
-## 📚 EduSolve AI
+### 💻 [Smart Gadget Price Estimator](https://github.com/subhampadhi33537-collab/Smart_Gadget_Price_Estimation_System)
 
-**Generative AI academic assistant**
+📱💻 Laptop & smartphone price prediction
 
-`Groq API` `Flask` `Frontend`
-
-🎓 Educational assistance
-🤖 LLM-powered responses
-🔗 Backend + AI integration
-
-**🔗 [GitHub](https://github.com/subhampadhi33537-collab/EduSolve_Ai)**
+`Python` `ML` `Flask`
 
 ---
 
-## 💻 Smart Gadget Price Estimator
+## 🔭 Currently Exploring
 
-**Machine learning system for laptop & smartphone price prediction**
+**🤖 Agentic AI**
+`LangGraph` → `AI Agents` → `Tool Calling` → `Memory` → `MCP`
 
-`Python` `Machine Learning` `Flask`
+**✨ GenAI**
+`LLMs` → `RAG` → `Embeddings` → `Vector Search`
 
-💻 Laptop Prediction
-📱 Smartphone Prediction
-🧹 Data Preprocessing
-🤖 ML Models
-🌐 Web Prediction Interface
-
-**🔗 [GitHub](https://github.com/subhampadhi33537-collab/Smart_Gadget_Price_Estimation_System) • [Live App](https://smart-gadget-price-estimation-system.onrender.com)**
+**📊 AI Engineering**
+`LangSmith` → `Tracing` → `Evaluation` → `Production AI`
 
 ---
-
-# 🤖 My Agentic AI Journey
-
-```text
-                    🧠 AI SYSTEMS
-                         │
-          ┌──────────────┼──────────────┐
-          │              │              │
-        ✨ GenAI        🔎 RAG       🤖 Agents
-          │              │              │
-         LLMs        Embeddings     LangGraph
-      Prompting       Retrieval      Tool Calling
-          │          Vector Store      Memory
-          │              │              │
-          └──────────────┼──────────────┘
-                         │
-                  🔗 MCP / Tools
-                         │
-                  📊 LangSmith
-                  Tracing & Evaluation
-                         │
-                   ⚙️ AI Applications
-```
-
-### 🔭 Currently Exploring
-
-`Agentic AI` • `LangGraph` • `LangSmith` • `MCP`
-`RAG` • `AI Agents` • `Tool Calling` • `LLM Applications`
-`Embeddings` • `Vector Stores` • `Production AI Systems`
-
----
-
-# 🎓 Certifications
-
-🏆 **Neural Networks and Deep Learning** — DeepLearning.AI / Coursera
-🏆 **IBM Data Science Professional Certificate** — IBM / Coursera
-🏆 **Introduction to Data Science in Python** — University of Michigan / Coursera
-
----
-
-# 📈 Developer Snapshot
 
 <div align="center">
 
-|    🧠 Area    | 🔧 Focus                                   |
-| :-----------: | :----------------------------------------- |
-|    🤖 AI/ML   | Machine Learning • Deep Learning • NLP     |
-|    ✨ GenAI    | LLMs • Prompt Engineering • RAG            |
-| 🤖 Agentic AI | LangGraph • LangChain • MCP • Tool Calling |
-|  🔎 Retrieval | FAISS • ChromaDB • Embeddings              |
-|   ⚙️ Backend  | FastAPI • Flask • REST APIs                |
-|  🗄️ Database | PostgreSQL • Supabase • MySQL • MongoDB    |
-| ☁️ Deployment | Render • Vercel                            |
-|   📊 AI Ops   | LangSmith • Tracing • Evaluation           |
+### ⚡ **Build • Learn • Deploy • Repeat 🚀**
 
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-### 🤝 Let's Build Something Intelligent
-
-<a href="https://linkedin.com/in/subham-padhi-9b3a7b385">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/subhampadhi33537-collab">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:subham117700@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-### ⚡ **Learn → Build → Experiment → Deploy → Repeat** 🚀
-
-⭐ *Building AI systems, one project at a time.*
+⭐ *Turning AI ideas into working systems.*
 
 </div>
