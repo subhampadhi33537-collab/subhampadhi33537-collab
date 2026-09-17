@@ -68,9 +68,6 @@ B.Tech CSE (AI & ML) student focused on building **machine learning, deep learni
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
 
-`REST APIs` • `API Integration` • `Backend Development`
-`Request Validation` • `Authentication` • `Model Serving`
-
 ---
 
 ### 🌐 Frontend
