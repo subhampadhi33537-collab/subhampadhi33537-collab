@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Subham Padhi
 
-### 🤖 AI/ML Developer | Generative AI | Backend Engineering.
+### 🤖 AI/ML Developer | Generative AI | Backend Engineering
 
 B.Tech CSE (AI & ML) student focused on building **machine learning, deep learning, Generative AI, RAG, and backend systems** with Python.
 
