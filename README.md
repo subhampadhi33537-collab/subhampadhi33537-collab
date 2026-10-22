@@ -16,7 +16,7 @@
 <!--  ANIMATED TYPING SUBHEADER                                  -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00F5FF&center=true&vCenter=true&random=false&width=750&height=50&lines=🤖+AI+%2F+ML+Developer+%26+Generative+AI+Engineer;🏛️+Creator+of+KalyanSetu+%7C+LangGraph+Agentic+GovTech;🔬+Building+Next-Gen+RAG+%26+Vector+Search+Systems;⚙️+Production+Backend+Services+with+FastAPI+%26+Postgres;🧠+Multi-Agent+Workflows+%7C+LangChain+%7C+LangGraph;💎+CGPA%3A+9.48+%7C+Innovating+at+the+Frontier+of+AI" alt="Animated Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00F5FF&center=true&vCenter=true&random=false&width=750&height=50&lines=%F0%9F%A4%96+AI+%2F+ML+Developer+%26+Generative+AI+Engineer;%F0%9F%8F%9B%EF%B8%8F+Creator+of+KalyanSetu+%7C+LangGraph+Agentic+GovTech;%F0%9F%94%AC+Building+Next-Gen+RAG+%26+Vector+Search+Systems;%E2%9A%99%EF%B8%8F+Production+Backend+Services+with+FastAPI+%26+Postgres;%F0%9F%A7%A0+Multi-Agent+Workflows+%7C+LangChain+%26+LangGraph;%F0%9F%92%8E+CGPA%3A+9.48+%7C+Innovating+at+the+Frontier+of+AI" alt="Animated Typing Banner" />
 </a>
 
 <br/>
