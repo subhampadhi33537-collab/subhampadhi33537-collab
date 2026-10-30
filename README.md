@@ -92,7 +92,7 @@ Status      : 🟢 Ready for High-Impact AI/ML & Engineering Roles
 ---
 
 ### ✨ Generative AI & RAG
-![GenAI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-6E40C9?style=for-the-badge)
 ![FAISS](https://img.shields.io/badge/FAISS-Vector_Search-1877F2?style=for-the-badge)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_Store-FF6F61?style=for-the-badge)
